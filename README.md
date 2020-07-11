@@ -1,4 +1,4 @@
-👋 Hi, I'm Vitor Emanuel, an aspiring software engineer.
+👋 Hi, I'm Vitor Emanuel, an aspiring Software Engineer.
 
 <!--
 **VitorEmanuelDev/vitoremanueldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @vitoremanueldev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was sorted into Ravenclaw.
--->
