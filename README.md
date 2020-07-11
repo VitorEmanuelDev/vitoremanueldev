@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects and Hackatons.
 - 🤔 I’m looking for help with Systems Design.
 - 💬 Ask me about anything.
-- 📫 How to reach me: @vitoremanueldev
+- 📫 How to reach me: <a href="https://twitter.com/VitorEmanuelDev"> @vitoremanueldev</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was sorted into Ravenclaw.
