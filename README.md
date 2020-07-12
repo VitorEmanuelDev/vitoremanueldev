@@ -8,7 +8,7 @@
 <!--
 **VitorEmanuelDev/vitoremanueldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working at Ericsson Inovação as an intern. 
+<!--- 🔭 I’m currently working at Ericsson Inovação as an intern. -->
 - 🌱 I’m currently learning Java.
 - 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on Projects and Hackatons.
 - 🤔 I’m looking for help with Systems Design.
