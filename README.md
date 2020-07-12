@@ -6,7 +6,7 @@
 👋 Hi, I'm Vitor Emanuel, an aspiring Software Engineer 👨🏿💻 
 
 <!--
-**VitorEmanuelDev/vitoremanueldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VitorEmanuelDev/vitoremanueldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working at Ericsson Inovação as an intern. 
 - 🌱 I’m currently learning Java.
