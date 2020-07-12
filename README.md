@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on ...--> 
 - 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on Projects and Hackatons.
+- 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on Projects and Hackatons.
 - 🤔 I’m looking for help with Systems Design.
 - 💬 Ask me about anything.
-- 📫 How to reach me: <a href="https://twitter.com/VitorEmanuelDev"> @vitoremanueldev</a>
+- 📫 How to reach me: <a href="https://twitter.com/VitorEmanuelDev">@vitoremanueldev</a>
 - 🏳️‍🌈 Pronouns: he / him / his
-- ⚡ Fun fact: I was sorted into Ravenclaw.
+- 🦄 Fun fact: I was sorted into Ravenclaw 🧙🏿
