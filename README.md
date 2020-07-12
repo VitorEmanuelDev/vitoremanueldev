@@ -12,6 +12,6 @@
 - 🦄 Fun fact: I was sorted into Ravenclaw 🧙🏿
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoremanueldev/)](https://www.linkedin.com/in/vitoremanueldev/)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vitoremanueldev)](https://twitter.com/vitoremanueldev)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vitoremanueldev)](https://twitter.com/vitoremanueldev&target=_blank)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:veslima3@gmail.com.br)](mailto:veslima3@gmail.com.br)
 
