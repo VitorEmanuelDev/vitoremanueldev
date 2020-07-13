@@ -13,7 +13,7 @@
 - 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on projects and hackatons.
 - 🤔 I’m looking for help with Systems Design.
 - 💬 Ask me about anything.
-- 🏳️‍🌈 Pronouns: He/Him/His
-- 🦄 Fun fact: I was sorted into Ravenclaw 🧙🏿
+- 🏳️‍🌈 Pronouns: He, Him, His.
+
 
   
