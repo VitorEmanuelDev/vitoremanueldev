@@ -3,7 +3,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:veslima3@gmail.com.br)](mailto:veslima3@gmail.com.br)
 
 
-👋 Hi, I'm Vitor Emanuel, an aspiring Back-End Developer 👨🏿‍💻🇧🇷🇸🇳
+👋 Hi, I'm Vitor Emanuel, an aspiring Software Development Engineer 👨🏿‍💻🇧🇷🇸🇳
 
 <!--
 **VitorEmanuelDev/vitoremanueldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
