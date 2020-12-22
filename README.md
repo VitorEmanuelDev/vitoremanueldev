@@ -10,7 +10,7 @@
 
 <!--- 🔭 I’m currently working at Ericsson Inovação as an intern. -->
 - 🌱 I’m currently focused on DevOps.
-- 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on projects and hackatons.
+- 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with Systems Design.
 - 💬 Ask me about anything.
 - 🏳️‍🌈 Pronouns: He, Him, His.
