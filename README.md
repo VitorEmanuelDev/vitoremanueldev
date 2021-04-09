@@ -6,7 +6,7 @@
 </a>
 
 
-👋 Hi, I'm Vitor Emanuel, an aspiring Software Engineer 👨🏿‍💻🇧🇷🇸🇳
+👋 Hi, I'm Vitor Emanuel, a Junior Software Developer 👨🏿‍💻🇧🇷🇸🇳
 
 <!--
 **VitorEmanuelDev/vitoremanueldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
