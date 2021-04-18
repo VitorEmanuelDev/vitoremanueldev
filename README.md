@@ -12,7 +12,7 @@
 **VitorEmanuelDev/vitoremanueldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!--- 🔭 I’m currently working at Ericsson Inovação as an intern. -->
-- 🌱 I’m currently focused on Java and DevOps.
+- 🌱 I’m currently focused on Java and Spring Boot.
 - 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with Systems Design.
 - 💬 Ask me about anything.
