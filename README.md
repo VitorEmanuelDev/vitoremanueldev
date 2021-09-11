@@ -6,17 +6,21 @@
 </a>
 
 
-👋 Hi, I'm Vitor Emanuel, a Junior Software Engineer 👨🏿‍💻🇧🇷🇸🇳
+Hi, my name is Vitor 👋🏾
 
-<!--
-**VitorEmanuelDev/vitoremanueldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+🧑🏾‍💻 I'm a Junior Software Engineer currently working with Java Back-End Development at Benefitter.
 
-<!--- 🔭 I’m currently working at Ericsson Inovação as an intern. -->
-- 🌱 I’m currently focused on Java and Spring Boot.
-- 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with Systems Design.
-- 💬 Ask me about anything.
-- 🏳️‍🌈 Pronouns: He, Him, His.
+🎓 Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (December 2023)
+
+🌇 Dakar - Senegal Native, with a passion for technology and software development
+
+📚 I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech
+
+💻 As for my future, I hope to one day work as a Specialist Software Engineer
+
+🍔 In my free time, I like going to the gym, listening to audiobooks/podcasts, watching or reading anything comedy related, discovering new places (specially if it involves food)
+
+💪🏽 I am constantly trying to teach myself something about anything.
 
 
   
