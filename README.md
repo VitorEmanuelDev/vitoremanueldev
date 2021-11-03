@@ -8,19 +8,19 @@
 
 Hi, my name is Vitor 👋🏾
 
-🧑🏾‍💻 I'm a Junior Software Engineer currently working with Java Back-End Development at Benefitter.
+🧑🏾‍💻  I'm a Junior Software Engineer currently working with Java Back-End Development at Benefitter.
 
-🎓 Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (December 2023)
+🎓  Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (December 2023)
 
-🌇 Dakar - Senegal Native, with a passion for technology and software development
+🌇  Dakar - Senegal Native, with a passion for technology and software development
 
-📚 I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech
+📚  I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech
 
-💻 As for my future, I hope to one day work as a Specialist Software Engineer
+💻  As for my future, I hope to one day work as a Specialist Software Engineer
 
-🍔 In my free time, I like going to the gym, listening to audiobooks/podcasts, watching or reading anything comedy related, discovering new places (specially if it involves food)
+🍔  In my free time, I like going to the gym, listening to audiobooks/podcasts, watching or reading anything comedy related, discovering new places (specially if it involves food)
 
-💪🏽 I am constantly trying to teach myself something about anything.
+💪🏽  I am constantly trying to teach myself something about anything.
 
 
   
