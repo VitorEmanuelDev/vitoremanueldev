@@ -12,7 +12,7 @@ Hi, my name is Vitor 👋🏾
 
 🎓  Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (December 2023)
 
-🌇  Dakar - Senegal Native, with a passion for technology and software development
+🌇  Dakar - Senegal native, with a passion for technology and software development
 
 📚  I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech
 
