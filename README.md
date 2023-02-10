@@ -8,7 +8,7 @@
 
 Hi, my name is Vitor 👋🏾
 
-🧑🏾‍💻  I'm a Software Developer currently working with Java Back-End Development at Bees - AB InBev.
+🧑🏾‍💻  I'm a Software Developer currently working with DataEngineering and Back-End Development at Bees - AB InBev.
 
 🎓  Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (December 2023)
 
