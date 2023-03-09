@@ -10,7 +10,7 @@ Hi, my name is Vitor 👋🏾
 
 🧑🏾‍💻  I'm a Software Developer currently working with Data Engineering and Back-End Development at Bees - AB InBev.
 
-🎓  Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (December 2023)
+🎓  Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.1)
 
 🌇  Dakar - Senegal native, with a passion for technology and software development
 
