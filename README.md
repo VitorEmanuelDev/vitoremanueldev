@@ -18,8 +18,6 @@ Hi, my name is Vitor 👋🏾
 
 💻  As for my future, I hope to one day work as a Specialist Software Engineer
 
-🍔  In my free time, I like going to the gym, listening to audiobooks/podcasts, watching or reading anything comedy related, discovering new places (specially if it involves food)
-
 💪🏽  I am constantly trying to teach myself something about anything.
 
 
