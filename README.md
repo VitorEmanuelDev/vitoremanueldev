@@ -8,13 +8,11 @@
 
 Hi, my name is Vitor 👋🏾
 
-🧑🏾‍💻  I'm a Software Developer with 5 years of overall experience, specializing in Java Back-End Development and Data Engineering. 
+🧑🏾‍💻  I'm a Software Developer with a passion for technology, and 5 years of overall experience, specializing in Java Back-End Development and Data Engineering. 
 
 🎯 Currently working with cross-functional teams to achieve results as an individual contributor at Bees - AB-InBev. 
 
 🎓  Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.1)
-
-🌇  Dakar - Senegal native, with a passion for technology and software development
 
 📚  I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech
 
