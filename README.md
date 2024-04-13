@@ -4,17 +4,17 @@
 <!--<a href="https://vitoremanueldev.medium.com/" target="_blank"> <img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium"> </a> -->
 
 
-Hi, my name is Vitor 👋🏾
+🧑🏾‍💻 I'm a Software Developer with 4 years of overall experience.
 
-🧑🏾‍💻  I'm a Software Developer with 4 years of overall experience, specializing in Java Back-End Development and Data Engineering. 
+🧰 Specialized in Java Back-End Development and Data Engineering. 
 
-🎯 Currently working with cross-functional teams to achieve results as an individual contributor at Bees - AB-InBev. 
+🎯 Currently working as an individual contributor at Bees - AB-InBev. 
 
-🎓  Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.1)
+🎓 Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.1).
 
-📚  I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech
+💼 I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech.
 
-💪🏽  I am constantly trying to teach myself something about anything.
+📚 I'm curious, and constantly trying to teach myself something about anything.
 
 
   
