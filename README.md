@@ -8,6 +8,8 @@
 
 🧰 Specialized in Java Back-End Development and Data Engineering. 
 
+🛠️ Stack:  Java, Spring Boot, Maven, Python, Apache Spark, Pandas, PyMongo, SQL, NoSQL.
+
 🎯 Currently working as an individual contributor at Bees - AB-InBev. 
 
 🎓 Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.1).
