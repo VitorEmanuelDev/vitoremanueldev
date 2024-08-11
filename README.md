@@ -6,13 +6,13 @@
 
 🧑🏾‍💻 I'm a Software Developer with 5 years of overall experience.
 
-🧰 Specialized in Java Back-End Development and Data Engineering. 
+🧰 Specialized in Data Engineering and Back-End Development.
 
-🛠️ Stack:  Java, Spring Boot, Maven, Python, Apache Spark, Pandas, PyMongo, SQL, NoSQL.
+🛠️ Stack: Java, Spring Boot, Maven, Python, Apache Spark, Pandas, PyMongo, SQL, NoSQL.
 
-🎯 Currently working as an individual contributor at Bees - AB-InBev. 
+🎯 Currently working as an individual contributor at Luizalabs.
 
-🎓 Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.1).
+🎓 Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.2).
 
 💼 I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech.
 
