@@ -4,7 +4,7 @@
 <!--<a href="https://vitoremanueldev.medium.com/" target="_blank"> <img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium"> </a> -->
 
 
-🧑🏾‍💻 I'm a Software Developer with 4 years of overall experience.
+🧑🏾‍💻 I'm a Software Developer with 5 years of overall experience.
 
 🧰 Specialized in Java Back-End Development and Data Engineering. 
 
