@@ -12,11 +12,10 @@
 
 🎯 Currently working as an individual contributor at Luizalabs.
 
-🎓 Soon to be grad with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.2).
+🎓 Graduated with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.2).
 
 💼 I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech.
 
 📚 I'm curious, and constantly trying to teach myself something about anything.
-
 
   
