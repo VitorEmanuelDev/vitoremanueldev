@@ -8,7 +8,7 @@
 
 🧰 Specialized in Data Engineering and Back-End Development.
 
-🛠️ Stack: Python, Spark, Pandas, PyMongo, SQL, NoSQL, Kubernetes, Airflow, Docker, Java, Spring, Maven.
+🛠️ Stack: Python, Fast API, Spark, Pandas, PyMongo, Kafka, SQL, NoSQL, Terraform, Kubernetes, Airflow, Docker, Java, Spring, Maven. 
 
 🎯 Currently working as an individual contributor at Luizalabs.
 
