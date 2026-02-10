@@ -10,8 +10,6 @@
 
 🛠️ Stack: Python, Fast API, Spark, Pandas, PyMongo, Kafka, SQL, NoSQL, Terraform, Kubernetes, Airflow, Docker, Java, Spring, and Maven. 
 
-🎯 Currently working as an individual contributor at Luizalabs.
-
 🎓 Graduated with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.2).
 
 💼 I used to work as an Assistant Manager then as an English Teacher, before transitioning to tech.
