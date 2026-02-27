@@ -8,7 +8,15 @@
 
 🧰 Specialized in Data Engineering and Back-End Development.
 
-🛠️ Stack: Python, Fast API, Spark, Pandas, PyMongo, Kafka, SQL, NoSQL, Terraform, Kubernetes, Airflow, Docker, Java, Spring, and Maven. 
+🔧 Stack:
+
+• Data Engineering: Python, Spark, Pandas, Kafka, Airflow, SQL, NoSQL, BigQuery;
+
+• Cloud & Infrastructure: AWS, GCP, Azure, Kubernetes, Docker, Terraform, Databricks, ArgoCD;
+
+• CI/CD & Version Control: Git, GitHub, GitLab, Jenkins, ArgoCD, Azure DevOps;
+
+• Back-End Development: FastAPI, Java, Spring, Maven, PyMongo.
 
 🎓 Graduated with a Bachelor of Technology in Systems Analysis and Development from IFBA (2024.2).
 
