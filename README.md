@@ -4,15 +4,15 @@
 <!--<a href="https://vitoremanueldev.medium.com/" target="_blank"> <img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium"> </a> -->
 
 
-🧑🏾‍💻 I'm a Software Engineer with 6 years of overall experience.
+🧑🏾‍💻 I'm a Software Engineer with 7 years of overall experience.
 
 🧰 Specialized in Data Engineering and Back-End Development.
 
 🔧 Stack:
 
-• Data Engineering: Python, Spark, Pandas, Kafka, Airflow, SQL, NoSQL, BigQuery;
+• Data Engineering: Python, Spark, Pandas, Kafka, Airflow, Orchestra, SQL, NoSQL, BigQuery, dbt;
 
-• Cloud & Infrastructure: AWS, GCP, Azure, Kubernetes, Docker, Terraform, Databricks, ArgoCD;
+• Cloud & Infrastructure: AWS, GCP, Azure, Kubernetes, Docker, Terraform, Databricks, Snowflake, Snowplow, ArgoCD;
 
 • CI/CD & Version Control: Git, GitHub, GitLab, Jenkins, ArgoCD, Azure DevOps;
 
